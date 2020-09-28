@@ -1,0 +1,212 @@
+body{
+    border:0;
+    margin: 0;
+    text-align: center;
+    background-image: url("/image/5.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-size: 20px;
+    
+}
+
+.top-part{
+    background-color:#d9ecf2;
+    width: 100%;
+    padding-top: 50px;
+    display: block;
+}
+.mid-part{
+    margin-top: 50px;
+   text-align: center;
+   width: 100%;
+
+}
+.navigation{
+    background-color: crimson;
+    width: 100%;
+    position: fixed;
+    top: 15px;
+    height: 40px;
+    padding-top: 14px;
+}
+.bottom-part{
+    background-color: #66BFBF;
+    width: 100%;
+    margin-top: 100px;
+    padding-top: 50px;
+    border-bottom: 0px;
+
+
+
+}
+h1{
+    color: cadetblue;
+    position: relative;
+    margin: auto;
+    font-family: 'Pacifico', cursive, serif;
+    top: 30px;
+}
+h2{
+    color: cadetblue;
+    position: relative;
+    margin: 60px auto 0 auto;
+    font-size: 40px;
+    
+}
+.cloud1{
+    position: absolute;
+    right: 20%;
+    
+}
+.cloud{
+    position: absolute;
+
+}
+.under{
+    text-decoration: underline;
+}
+.logo{
+    border-radius: 100%;
+    size: 100px;
+}
+.textFont{
+    font-size: 60px;
+    font-family: 'edwardian script ITC', serif;
+}
+.profile-Image{
+    border-radius: 100%;
+}
+.computer-image{
+    margin-right: 30px;
+    border-radius: 100%;
+    width: 30%;
+    
+    float: left;
+
+}
+.copyright{
+    color: white;
+    font-size: 15px;
+    margin-bottom: 0;
+}
+.contact{
+    margin-top: 0;
+}
+.hr1{
+    color: #a6a7a7;
+    border-style: dotted;
+    margin: 200px auto 100px auto;
+    border-width:6px 0 0 0;
+    width: 50px;
+}
+/* .Background-image{
+    position: fixed;
+    margin:0, auto auto,0;
+    width: 100%;
+} */
+.design{
+    margin-top: 20px;
+    width: 100%;
+    padding-left: 0;
+    margin-left: 0px;
+    margin-top: 0;
+}
+.p{
+    text-align: left;
+}
+.skill-Row{
+    width: 50%;
+    margin: auto;
+}
+
+.Hobby-row{
+    text-align: left;
+    display: block;
+    margin: 150px auto 100px auto;
+    width: 50%;
+}
+.dance{
+    border-radius: 100%;
+    width: 30%;
+    float:right;
+
+}
+.descrip{
+    width: 100%;
+    
+}
+.text{
+    clear:left;
+    text-align: left;
+    
+}
+.tweet:hover{
+    color: darkorange;
+}
+.tweet1:hover{
+    color: darkorange;
+    
+}
+.tweet{
+    border-right: 100px;
+    text-decoration: none;
+}
+.tweet1{
+    margin-left: 50px;
+    text-decoration: none;
+}
+.mail{
+    text-decoration: none;
+}
+.mail:hover{
+    color:darkorange;
+}
+.profile-des{
+    text-align: center;
+
+}
+h3{
+    color: cadetblue;
+}
+.tex{
+    width: 60%;
+    margin: auto;
+}
+.profile{
+    margin:auto;
+    width: 50%;
+}
+.first-rule{
+    margin-top: 100px;
+    color: #a6a7a7;
+    border-style: dotted;
+    border-width: 5px 0 0 0;
+    width: 45px;
+    
+}
+.design-Box{
+    margin-top: 100px;
+    text-align: left;
+}
+.pres{
+    font-size: 20px;
+}
+.contact{
+    width: 50%;
+    margin: auto;
+}
+.but{
+    padding: 10px 30px 10px 30px;
+    background-color: crimson;
+    border-radius: 20px;
+}
+.but:hover{
+    background-color:rgba(15, 214, 228, 0.171)
+}
+.face{
+    margin-left: 50px;
+    text-decoration: none;
+}
+.face:hover{
+    color: darkorange ;
+}
